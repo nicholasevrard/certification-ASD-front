@@ -6,3 +6,9 @@ choisir Apache Win64
 download, extraire et lire le README:
 install visual C++, installer sur C:
 deplacer le fichier dans Apache24/htdocs
+
+aller dans administrateur C:
+./httpd.exe
+ls -a
+cd bin
+cd conf
